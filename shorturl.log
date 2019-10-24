@@ -1,0 +1,7 @@
+2019-10-24 17:41:22.093  INFO 9500 --- [main] c.w.shorturl.ShorturlApplicationTests    : Starting ShorturlApplicationTests on ZFY-PC with PID 9500 (started by Administrator in E:\¹È¸è\shorturl\4635039855199232\shorturl)
+2019-10-24 17:41:22.103  INFO 9500 --- [main] c.w.shorturl.ShorturlApplicationTests    : No active profile set, falling back to default profiles: default
+2019-10-24 17:41:27.912  INFO 9500 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-10-24 17:41:28.214  INFO 9500 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-10-24 17:41:28.394  WARN 9500 --- [main] org.thymeleaf.templatemode.TemplateMode  : [THYMELEAF][main] Template Mode 'html5' is deprecated. Using Template Mode 'HTML' instead.
+2019-10-24 17:41:28.897  INFO 9500 --- [main] c.w.shorturl.ShorturlApplicationTests    : Started ShorturlApplicationTests in 7.995 seconds (JVM running for 10.455)
+2019-10-24 17:41:29.590  INFO 9500 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
